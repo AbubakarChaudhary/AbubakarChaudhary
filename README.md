@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Alt Text](https://i.ibb.co/61KGjs9/github-header-image-2.png)
 
 
