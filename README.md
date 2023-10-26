@@ -1,5 +1,7 @@
-![Alt Text](https://i.ibb.co/61KGjs9/github-header-image-2.png)
 
+<p align="center">
+  <img src="https://i.ibb.co/61KGjs9/github-header-image-2.png" alt="Your Name" width="200" height="200" />
+</p>
 <h1 align="center">👋 About Me</h1>
 
 <p align="center">
