@@ -1,5 +1,6 @@
 ### Hi there 👋
-[img]https://i.imgur.com/W0nw0Un.png[/img]
+![Alt Text](https://i.ibb.co/61KGjs9/github-header-image-2.png)
+
 
 <!--
 **AbubakarChaudhary/AbubakarChaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
