@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/61KGjs9/github-header-image-2.png" alt="Your Name" width="200" height="200" />
+  <img src="https://i.ibb.co/61KGjs9/github-header-image-2.png" alt="Your img" style="width:100%;" />
 </p>
 <h1 align="center">👋 About Me</h1>
 
